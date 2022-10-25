@@ -1,0 +1,20 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+#!genome-build ASM584v2
+#!genome-build-accession NCBI_Assembly:GCF_000005845.2
+##sequence-region NC_000913.3 1 4641652
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=511145
+NC_000913.3	RefSeq	region	1	4641652	.	+	.	ID=NC_000913.3:1..4641652;Dbxref=taxon:511145;Is_circular=true;Name=ANONYMOUS;gbkey=Src;genome=chromosome;mol_type=genomic DNA;strain=K-12;substrain=MG1655
+NC_000913.3	RefSeq	gene	190	255	.	+	.	ID=gene-b0001;Dbxref=ASAP:ABE-0000006,ECOCYC:EG11277,GeneID:944742;Name=thrL;gbkey=Gene;gene=thrL;gene_biotype=protein_coding;gene_synonym=ECK0001;locus_tag=b0001
+NC_000913.3	RefSeq	CDS	190	255	.	+	0	ID=cds-NP_414542.1;Parent=gene-b0001;Dbxref=UniProtKB/Swiss-Prot:P0AD86,Genbank:NP_414542.1,ASAP:ABE-0000006,ECOCYC:EG11277,GeneID:944742;Name=NP_414542.1;gbkey=CDS;gene=thrL;locus_tag=b0001;orig_transcript_id=gnl|b0001|mrna.NP_414542;product=thr operon leader peptide;protein_id=NP_414542.1;transl_table=11
+NC_000913.3	RefSeq	gene	337	2799	.	+	.	ID=gene-b0002;Dbxref=ASAP:ABE-0000008,ECOCYC:EG10998,GeneID:945803;Name=thrA;gbkey=Gene;gene=thrA;gene_biotype=protein_coding;gene_synonym=ECK0002,Hs,thrA1,thrA2,thrD;locus_tag=b0002
+NC_000913.3	RefSeq	CDS	337	2799	.	+	0	ID=cds-NP_414543.1;Parent=gene-b0002;Dbxref=UniProtKB/Swiss-Prot:P00561,Genbank:NP_414543.1,ASAP:ABE-0000008,ECOCYC:EG10998,GeneID:945803;Name=NP_414543.1;gbkey=CDS;gene=thrA;locus_tag=b0002;orig_transcript_id=gnl|b0002|mrna.NP_414543;product=fused aspartate kinase/homoserine dehydrogenase 1;protein_id=NP_414543.1;transl_table=11
+NC_000913.3	RefSeq	gene	2801	3733	.	+	.	ID=gene-b0003;Dbxref=ASAP:ABE-0000010,ECOCYC:EG10999,GeneID:947498;Name=thrB;gbkey=Gene;gene=thrB;gene_biotype=protein_coding;gene_synonym=ECK0003;locus_tag=b0003
+NC_000913.3	RefSeq	CDS	2801	3733	.	+	0	ID=cds-NP_414544.1;Parent=gene-b0003;Dbxref=UniProtKB/Swiss-Prot:P00547,Genbank:NP_414544.1,ASAP:ABE-0000010,ECOCYC:EG10999,GeneID:947498;Name=NP_414544.1;gbkey=CDS;gene=thrB;locus_tag=b0003;orig_transcript_id=gnl|b0003|mrna.NP_414544;product=homoserine kinase;protein_id=NP_414544.1;transl_table=11
+NC_000913.3	RefSeq	gene	3734	5020	.	+	.	ID=gene-b0004;Dbxref=ASAP:ABE-0000012,ECOCYC:EG11000,GeneID:945198;Name=thrC;gbkey=Gene;gene=thrC;gene_biotype=protein_coding;gene_synonym=ECK0004;locus_tag=b0004
+NC_000913.3	RefSeq	CDS	3734	5020	.	+	0	ID=cds-NP_414545.1;Parent=gene-b0004;Dbxref=UniProtKB/Swiss-Prot:P00934,Genbank:NP_414545.1,ASAP:ABE-0000012,ECOCYC:EG11000,GeneID:945198;Name=NP_414545.1;gbkey=CDS;gene=thrC;locus_tag=b0004;orig_transcript_id=gnl|b0004|mrna.NP_414545;product=threonine synthase;protein_id=NP_414545.1;transl_table=11
+NC_000913.3	RefSeq	gene	5234	5530	.	+	.	ID=gene-b0005;Dbxref=ASAP:ABE-0000015,ECOCYC:G6081,GeneID:944747;Name=yaaX;gbkey=Gene;gene=yaaX;gene_biotype=protein_coding;gene_synonym=ECK0005;locus_tag=b0005
+NC_000913.3	RefSeq	CDS	5234	5530	.	+	0	ID=cds-NP_414546.1;Parent=gene-b0005;Dbxref=UniProtKB/Swiss-Prot:P75616,Genbank:NP_414546.1,ASAP:ABE-0000015,ECOCYC:G6081,GeneID:944747;Name=NP_414546.1;gbkey=CDS;gene=yaaX;locus_tag=b0005;orig_transcript_id=gnl|b0005|mrna.NP_414546;product=DUF2502 domain-containing protein YaaX;protein_id=NP_414546.1;transl_table=11
+NC_000913.3	RefSeq	gene	5683	6459	.	-	.	ID=gene-b0006;Dbxref=ASAP:ABE-0000018,ECOCYC:EG10011,GeneID:944749;Name=yaaA;gbkey=Gene;gene=yaaA;gene_biotype=protein_coding;gene_synonym=ECK0006;locus_tag=b0006
+NC_000913.3	RefSeq	CDS	5683	6459	.	-	0	ID=cds-NP_414547.1;Parent=gene-b0006;Dbxref=UniProtKB/Swiss-Prot:P0A8I3,Genbank:NP_414547.1,ASAP:ABE-0000018,ECOCYC:EG10011,GeneID:944749;Name=NP_414547.1;gbkey=CDS;gene=yaaA;locus_tag=b0006;orig_transcript_id=gnl|b0006|mrna.NP_414547;product=DNA binding and peroxide stress response protein YaaA;protein_id=NP_414547.1;transl_table=11

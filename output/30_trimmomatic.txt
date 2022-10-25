@@ -1,0 +1,5 @@
+TrimmomaticPE: Started with arguments:
+ -phred33 ./raw/amp_res_1.fastq.gz ./raw/amp_res_2.fastq.gz 30_paired1.fq 30_single1.fq 30_paired2.fq 30_single2.fq LEADING:30 TRAILING:30 SLIDINGWINDOW:10:30 MINLEN:20
+Multiple cores found: Using 4 threads
+Input Read Pairs: 455876 Both Surviving: 376340 (82,55%) Forward Only Surviving: 33836 (7,42%) Reverse Only Surviving: 25307 (5,55%) Dropped: 20393 (4,47%)
+TrimmomaticPE: Completed successfully

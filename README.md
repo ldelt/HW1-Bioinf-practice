@@ -140,3 +140,7 @@
 
 7. **Аннотируем:**
 	- ```snpEff ann k12 VarScan_results.vcf > VarScan_results_annotated.vcf```
+
+8. **Смотрим и оцениваем результаты в IGV-browser'е.** 
+
+	Открываем сессию `manual_pred.xml`, удаляем трек `VarScan_results.vcf`(правая кнопка мыши по нему > remove). В пункте `File` > `Open from file` добавляем `VarScan_results_annotated.vcf`. 

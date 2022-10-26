@@ -1,6 +1,7 @@
 # Лабораторный журнал
 Вывод для всех команд, подразумевающих какой-либо вывод, сохранен в папку `output`, находящуюся в рабочей папке репозитория.
 Все файлы проекта - **[https://drive.google.com/drive/folders/1CCKUcKky-y0Qy6sOO38ABnd3bNYmbiPM?usp=sharing](https://drive.google.com/drive/folders/1CCKUcKky-y0Qy6sOO38ABnd3bNYmbiPM?usp=sharing)**
+Lab report - **[https://drive.google.com/file/d/1ajahPmZxFvPWUf7cL95tsOS60-_LeO1P/view?usp=sharing](https://drive.google.com/file/d/1ajahPmZxFvPWUf7cL95tsOS60-_LeO1P/view?usp=sharing)**
 ## Подготовка
 
 1. **Создаем рабочую директорию и переходим в нее**
@@ -14,7 +15,7 @@
 **[https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/)**
 
 4. **Загружаем риды штамма, резистентного к антибиотику, по ссылке:**
-**[https://doi.org/10.6084/m9.figshare.10006541.v3](https://doi.org/10.6084/m9.figshare.10006541.v3)**
+[https://doi.org/10.6084/m9.figshare.10006541.v3](https://doi.org/10.6084/m9.figshare.10006541.v3)
 
 *Файлы загружаем и переносим в папку raw вручную без использования терминала*
 

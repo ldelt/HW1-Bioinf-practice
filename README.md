@@ -135,7 +135,7 @@
 
 ## Автоматическое предсказание эффектов 
 1. **Загружаем файл, содержащий референсную последовательность и аннотацию, по ссылке ниже и помещаем его в папку raw:**
-[https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.gbff.gz](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.gbff.gz)**
+**[https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.gbff.gz](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/GCF_000005845.2_ASM584v2_genomic.gbff.gz)**
 
 2. **Создаем пустой файл `snpEff.config`:**
 		- ```touch  snpEff.config```
